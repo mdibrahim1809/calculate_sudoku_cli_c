@@ -22,3 +22,5 @@
 ![na](https://github.com/mdibrahim1809/calculate_sudoku_cli_c/blob/main/Screenshot%202024-08-27%20234251.png)
 <br/># 10. paste them on the both variable > path > new<br/>
 ![na](https://github.com/mdibrahim1809/calculate_sudoku_cli_c/blob/main/Screenshot%202024-08-27%20234449.png)**
+- compile sudoku by ```gcc sudoku.c -o sudoku.exe```
+- run sudoku by ```.\sudoku.exe```
